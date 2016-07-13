@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2013/10/12 11:48:38.000.815,D:\FireDac_Test\24_PostgreSQL8\FireDac_FbSQL252_Unit.pas=D:\FireDac_Test\24_PostgreSQL8\FireDac_PgSQL84_Unit.pas</Transaction>
+    <Transaction>2013/10/12 11:48:38.000.815,D:\FireDac_Test\24_PostgreSQL8\FireDac_FbSQL252_Unit.dfm=D:\FireDac_Test\24_PostgreSQL8\FireDac_PgSQL84_Unit.dfm</Transaction>
+    <Transaction>2013/10/12 11:48:47.000.571,D:\FireDac_Test\24_PostgreSQL8\FireDAC_FbSQL252.dproj=D:\FireDac_Test\24_PostgreSQL8\FireDAC_PgSQL84.dproj</Transaction>
+    <Transaction>2013/10/25 10:41:14.000.785,D:\FireDac_Test\36_PostgreSQL9\FireDAC_PgSQL92.dproj=D:\FireDac_Test\36_PostgreSQL9\FireDAC_PgSQL84.dproj</Transaction>
+    <Transaction>2013/10/25 10:41:21.000.419,D:\FireDac_Test\36_PostgreSQL9\FireDac_PgSQL92_Unit.pas=D:\FireDac_Test\36_PostgreSQL9\FireDac_PgSQL84_Unit.pas</Transaction>
+    <Transaction>2013/10/25 10:41:21.000.419,D:\FireDac_Test\36_PostgreSQL9\FireDac_PgSQL92_Unit.dfm=D:\FireDac_Test\36_PostgreSQL9\FireDac_PgSQL84_Unit.dfm</Transaction>
+    <Transaction>2014/08/05 17:43:43.000.038,D:\FireDac_Test\36_PostgreSQL93\FireDAC_PgSQL93.dproj=D:\FireDac_Test\36_PostgreSQL93\FireDAC_PgSQL92.dproj</Transaction>
+    <Transaction>2014/08/05 17:48:51.000.646,D:\FireDac_Test\36_PostgreSQL93\FireDAC_PgSQL93.dproj=D:\FireDac_Test\36_PostgreSQL93\FireDAC_PgSQL93.dproj</Transaction>
+    <Transaction>2014/09/18 12:46:37.000.455,D:\FireDac_Test\36_PostgreSQL93\FireDac_PgSQL92_Unit.dfm=D:\FireDac_Test\36_PostgreSQL93\FireDac_PgSQL93_Unit.dfm</Transaction>
+    <Transaction>2014/09/18 12:46:37.000.455,D:\FireDac_Test\36_PostgreSQL93\FireDac_PgSQL92_Unit.pas=D:\FireDac_Test\36_PostgreSQL93\FireDac_PgSQL93_Unit.pas</Transaction>
+  </Transactions>
+</BorlandProject>

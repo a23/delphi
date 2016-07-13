@@ -1,0 +1,14 @@
+program FireDAC_PgSQL92;
+
+uses
+  Vcl.Forms,
+  FireDac_PgSQL84_Unit in 'FireDac_PgSQL84_Unit.pas' {Form1};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TForm1, Form1);
+  Application.Run;
+end.
